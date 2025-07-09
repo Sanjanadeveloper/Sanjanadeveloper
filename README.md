@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjana-kumari-050aa6314/"><img src="https://img.shields.io/badge/-Sanjana Kumari-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:sanjanaagnihotrii@gmail.com"><img src="https://img.shields.io/badge/-sanjanaagnihotrii@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://github-io-6h9t.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://github-io-958r.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 <img align="right" alt="Coding" width="340" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250604%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250604T103551Z&X-Amz-Expires=300&X-Amz-Signature=dcee19ff625da03e762c0f505e6bffbfa7f95621c4749b0cfa888f69624c8037&X-Amz-SignedHeaders=host">
